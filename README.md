@@ -1,2 +1,24 @@
-# Supply_Chain
-Supply Chain Analytics project focusing on sales, shipping, and inventory data. Includes EDA, KPI analysis, supplier performance, and basic demand forecasting. Final deliverable: an interactive dashboard and insights to optimize efficiency, reduce costs, and improve decision-making
+# 📦 Supply Chain Analytics
+
+## 📌 Overview
+This project analyzes **Supply Chain data** to evaluate sales, shipping, and inventory performance.  
+It provides business insights through **EDA, KPI tracking, and simple demand forecasting**, with results presented in an interactive dashboard.
+
+## 🎯 Objectives
+- Identify profitable products and customer segments.  
+- Measure supplier performance and delivery times.  
+- Analyze shipping costs and efficiency.  
+- Provide visual dashboards for decision-making.  
+
+## 🛠️ Tools
+- Python (Pandas, NumPy, Matplotlib, Scikit-learn)  
+- SQL  
+- Tableau 
+
+## 🚀 Deliverables
+- Cleaned dataset & analysis  
+- Business insights report  
+- Interactive dashboard  
+- Final presentation  
+
+---
