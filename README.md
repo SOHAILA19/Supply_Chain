@@ -13,7 +13,7 @@ It provides business insights through **EDA, KPI tracking, and simple demand for
 ## 🛠️ Tools
 - Python (Pandas, NumPy, Matplotlib, Scikit-learn)  
 - SQL  
-- Tableau 
+- Power PI 
 
 ## 🚀 Deliverables
 - Cleaned dataset & analysis  
