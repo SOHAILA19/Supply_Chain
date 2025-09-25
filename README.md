@@ -11,6 +11,7 @@ It provides business insights through **EDA, KPI tracking, and simple demand for
 - Provide visual dashboards for decision-making.  
 
 ## 🛠️ Tools
+- Excel
 - Python (Pandas, NumPy, Matplotlib, Scikit-learn)  
 - SQL  
 - Power PI 
