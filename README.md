@@ -67,11 +67,13 @@ Repository:[📂 Project Files on Google Drive](https://drive.google.com/drive/u
 ## KPIs (Key Performance Indicators)
 
 * Total Sales
-* Orders by Country
-* Total Customers
-* Average Purchase Value
-* Average Delivery Time
-* Orders by Ship Mode
+* Total Profit
+* on Time Delivery
+* AVG Deliver Time
+* AVG Lead Time
+* Production Efficiency %
+* Late_Delivery_%
+* Cost Variance
 
 ---
 
